@@ -1,0 +1,17 @@
+.dark {
+    background-color: var(--dark-color);
+    color: var(--light-color);
+}
+
+.dark main {
+    background-color: var(--main-dark-color);
+}
+
+.light {
+    background-color: var(--light-color);
+    color: var(--dark-color);
+}
+
+.light main {
+    background-color: var(--main-light-color);
+}
